@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Pablo Andrés Guerra López 👋
 
-<!--
-**macekres-coder/macekres-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anthropologist & Economist transitioning into Data Science. 14+ years of experience in applied social research, public policy, and territorial analysis in Colombia.
 
-Here are some ideas to get you started:
+Currently building skills in Python, SQL, and data visualization through TripleTen's Data Science bootcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+Python | Pandas | Matplotlib | Plotly | Streamlit | SciPy | SQL | Jupyter
+
+### 📂 Projects
+- [Car Sales Dashboard](https://github.com/macekres-coder/car-sales-dashboard) — Interactive EDA dashboard for US vehicle listings
+- [Zuber Taxi Analysis](https://github.com/macekres-coder/zuber-taxi-analysis) — Exploratory analysis and hypothesis testing on Chicago taxi patterns
+
+### 📫 Contact
+- Portfolio: [Notion](https://lilac-word-cfa.notion.site/Pablo-Andr-s-Guerra-L-pez-Data-Analysis-Portafolio-36dd3d845215808c9f56c2bf5ca3beda)
+- Email: tu-correo@gmail.com
