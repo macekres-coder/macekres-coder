@@ -13,4 +13,4 @@ Python | Pandas | Matplotlib | Plotly | Streamlit | SciPy | SQL | Jupyter
 
 ### 📫 Contact
 - Portfolio: [Notion](https://lilac-word-cfa.notion.site/Pablo-Andr-s-Guerra-L-pez-Data-Analysis-Portafolio-36dd3d845215808c9f56c2bf5ca3beda)
-- Email: tu-correo@gmail.com
+- Email: pablo.guerralopez@hotmail.com
